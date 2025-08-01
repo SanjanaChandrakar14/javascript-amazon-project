@@ -39,6 +39,8 @@
 // }];
 
 
+import {cart} from '../data/cart.js';
+
 
 //generating the HTML for the data
 
